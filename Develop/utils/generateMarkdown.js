@@ -63,6 +63,8 @@ function generateMarkdown(data) {
             - [Usage](#usage)
             - [Contributions](#contributions)
             - [License](#license)
+            - [Tests](#tests)
+            - [Questions](#questions)
             
             ## Installation
 
@@ -79,6 +81,10 @@ function generateMarkdown(data) {
             ${renderLicenseSection(data.license)}
             
             ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
+
+            ## Tests
+
+            ${data.tests}
 
             ## Questions
             

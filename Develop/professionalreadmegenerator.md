@@ -1,4 +1,4 @@
-# Professional README Generator
+# Professional Readme Generator
 
             ## Description
             
@@ -10,14 +10,16 @@
             - [Usage](#usage)
             - [Contributions](#contributions)
             - [License](#license)
+            - [Tests](#tests)
+            - [Questions](#questions)
             
             ## Installation
 
-            You must have installed as a package first and foremost, installed by typing in "npm i inquirer@8.2.4" in the integrated terminal in the index.js and the you can enter "node index.js" or "node index" in the integrated terminal and press enter.
+            You must have inquirer installed as a package first and foremost, installed as "npm i inquirer@8.2.4" in the integrated terminal in the index.js file and then you can enter "node index.js" or "node index" in the terminal and press enter.
             
             ## Usage
             
-            The application asks the user a series of questions that they can  either choose to answer depending on what the user needs for their readme file. Though some questions are required such as title and github.,
+            The application asks the user a series of questions that they can either choose to answer depending on what the user needs for the readme file. Though some questionsa are required such as title and github.
 
             ## Contributions
             
@@ -25,7 +27,11 @@
             
             ## License
             
-            [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+            [![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+
+            ## Tests
+
+            N/A
 
             ## Questions
             

@@ -62,6 +62,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "tests",
+        message: "Provide examples on how to run your tests."
+    },
+    {
+        type: "input",
         name: "github",
         message: "What is your Github username?",
         validate: (value) => { 
