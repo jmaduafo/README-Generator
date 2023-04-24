@@ -41,7 +41,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   let licenseTitle = "";
   if (license !== "N/A") {
-    licenseTitle += "##License";
+    licenseTitle += "## License";
   } else {
     licenseTitle = "";
   }
