@@ -1,31 +1,31 @@
-# Read Me Generator
+# Readme Generator
 
             ## Description
             
-            It does what it does
+            I wanted to create a system to efficiently and quickly construct my very own readme with less headache. I learned that using this method to create files can save a lot of time.
             
             ## Table of Contents
             
             - [Installation](#installation)
             - [Usage](#usage)
-            - [Credits](#credits)
+            - [Contributions](#contributions)
             - [License](#license)
             
             ## Installation
 
-            Install inquirer
+            You must have inquirer installed as a package first and foremost, installed by entering "npm i inquirer@8.2.4" in the integrated terminal in the index.js and then you can enter "node index.js" or "node index" in the integrated terminal and press enter.
             
             ## Usage
             
-            Should be used for the good of the people
+            The application asks the user a series of questions that they can either choose to answer depending on what the user needs for the readme file. Though some questions are required such as title and github
 
             ## Contributions
             
-            Don't contribute
+            N/A
             
             ##License
             
-            [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+            [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
             ## Questions
             
